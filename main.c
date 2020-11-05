@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("Hello GIT");
-	
+	printf("Hello GIT");	
+	printf("second time");
 	return 0;
 }
